@@ -1,7 +1,6 @@
 {
   "name": "backend-node",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,15 @@
     "dotenv": "^16.1.4",
     "express": "^4.18.2",
     "node-fetch": "^2.6.11"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tacobellcommercial/react-weather-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tacobellcommercial/react-weather-backend/issues"
+  },
+  "homepage": "https://github.com/Tacobellcommercial/react-weather-backend#readme",
+  "description": ""
 }
